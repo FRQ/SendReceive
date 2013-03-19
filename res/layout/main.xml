@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:keepScreenOn="true"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/etReceive"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:gravity="top"
+        android:hint="Receive ..."
+        android:scrollbarStyle="insideOverlay"
+        android:isScrollContainer="true">
+    </EditText>
+
+    <EditText
+        android:id="@+id/etSend"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_x="-4dp"
+        android:layout_y="299dp"
+        android:ems="10"
+        android:hint="Send ..."
+        android:lines="1" />
+
+</LinearLayout>

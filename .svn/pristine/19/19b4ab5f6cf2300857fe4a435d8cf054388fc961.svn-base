@@ -1,0 +1,175 @@
+obj/local/armeabi/objs/serial_port/SerialPort.o: jni/SerialPort.c \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/termios.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/cdefs.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/cdefs_elf.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/android/api-level.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/ioctl.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/ioctl.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/ioctl.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm-generic/ioctl.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/ioctls.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/termbits.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/ioctl_compat.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/types.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/stdint.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/_types.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/machine/_types.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/posix_types.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/stddef.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/compiler.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/posix_types.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/types.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/types.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/machine/kernel.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/sysmacros.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/termios.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/termios.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/unistd.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/select.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/time.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/time.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/signal.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/limits.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/limits.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/limits.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/machine/internal_types.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/machine/limits.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/syslimits.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/page.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/string.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/malloc.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/signal.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm-generic/signal.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/sigcontext.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/siginfo.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm-generic/siginfo.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/sysconf.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/capability.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/pathconf.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/stat.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/stat.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/endian.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/endian.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/fcntl.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/fcntl.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/fcntl.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm-generic/fcntl.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/jni.h \
+ jni/SerialPort.h \
+ Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/android/log.h
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/termios.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/cdefs.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/cdefs_elf.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/android/api-level.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/ioctl.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/ioctl.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/ioctl.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm-generic/ioctl.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/ioctls.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/termbits.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/ioctl_compat.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/types.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/stdint.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/_types.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/machine/_types.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/posix_types.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/stddef.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/compiler.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/posix_types.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/types.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/types.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/machine/kernel.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/sysmacros.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/termios.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/termios.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/unistd.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/select.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/time.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/time.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/signal.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/limits.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/limits.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/limits.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/machine/internal_types.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/machine/limits.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/syslimits.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/page.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/string.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/malloc.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/signal.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm-generic/signal.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/sigcontext.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/siginfo.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm-generic/siginfo.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/sysconf.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/capability.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/pathconf.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/stat.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/stat.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/endian.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/sys/endian.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/fcntl.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/linux/fcntl.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm/fcntl.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/asm-generic/fcntl.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/jni.h:
+
+jni/SerialPort.h:
+
+Q:/Android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include/android/log.h:
